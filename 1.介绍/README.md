@@ -1,4 +1,4 @@
-1. `v-bind`指令用于元素绑定属性，如：class、href
+#### 1. `v-bind`指令用于元素绑定属性，如：class、href
 
 ```js
 <div id="app-2">
@@ -15,7 +15,7 @@ var app2 = new Vue({
 })
 ```
 
-2. `v-on`指令用于监听DOM元素事件
+#### 2. `v-on`指令用于监听DOM元素事件
 
 ```js
 <div id="app-5">
@@ -36,7 +36,7 @@ var app5 = new Vue({
 })
 ```
 
-3. `v-if`指令用于条件判断
+#### 3. `v-if`指令用于条件判断
 
 ```js
 <div id="app-3">
@@ -51,7 +51,7 @@ var app3 = new Vue({
 })
 ```
 
-4. `v-for`指令用于循环
+#### 4. `v-for`指令用于循环
 
 ```js
 <div id="app-4">
@@ -74,7 +74,7 @@ var app4 = new Vue({
 })
 ```
 
-5. `v-model`用于数据(特别是表单数据)的双向绑定
+#### 5. `v-model`用于数据(特别是表单数据)的双向绑定
 
 ```js
 <div id="app-6">
@@ -90,7 +90,7 @@ var app6 = new Vue({
 })
 ```
 
-6. `Vue.component`用于定义组件
+#### 6. `Vue.component`用于定义组件
 
 ```js
 <div id="app-7">
